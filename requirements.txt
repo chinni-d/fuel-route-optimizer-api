@@ -4,3 +4,4 @@ requests==2.32.3
 pandas==2.2.2
 numpy==1.26.4
 scipy==1.14.0
+whitenoise==6.7.0
